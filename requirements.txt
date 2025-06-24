@@ -1,1 +1,6 @@
 joblib
+streamlit 
+pandas
+ re
+TfidfVectorizer
+cosine_similarity
