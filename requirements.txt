@@ -1,6 +1,4 @@
 joblib
-streamlit 
+streamlit
 pandas
- re
-TfidfVectorizer
-cosine_similarity
+scikit-learn
